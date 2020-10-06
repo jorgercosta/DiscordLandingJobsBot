@@ -1,28 +1,26 @@
 # DiscordLandingJobsBot
 
-## Instalation
+## RUN
 
 **Requirements**
-
 - PYTHON >= 3
 
 
-**Steps to activate this project**
+**Steps to run this project**
 
 1. Clone this repository.
-4. Update the `.env` file.
-5. Run `python3 bot.py`.
+2. Install dependencies `pip3 install -r requirements.txt`
+3. Update the `.env` file.
+4. Run `python3 bot.py`.
 
 ## Testing
   WIP
   
 ## Changelog
-
 WIP
 
 
 ## Credits
-
 - [Jorge Costa](https://github.com/jorgercosta)
 
 
